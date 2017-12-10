@@ -1,0 +1,9 @@
+{
+  "name": "healthcheck-block",
+  "description": "Blocks the execution until the defined container is healthy in a Docker Compose environment.",
+  "main": "index.js",
+  "version": "1.0.0",
+  "author": "Kristóf Morva <kristof92@gmail.com>",
+  "repository": "tutorigo/healthcheck-block",
+  "license": "MIT"
+}
