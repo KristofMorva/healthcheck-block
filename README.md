@@ -1,7 +1,7 @@
 Blocks the execution until the defined container is healthy in a Docker Compose environment. Useful if you have to automatize a script after starting some containers (for example in some CI/CD systems like GitLab).
 
 # Installation
-Install it locally with `npm`, `yarn`, or any other Node dependency manager:
+Install it (locally or globally) with `npm`, `yarn`, or any other Node dependency manager:
 
 ```
 "docker-healthcheck": "*"
